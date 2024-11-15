@@ -1,13 +1,13 @@
 # Module6Assignment6
 
-##Fashion MNIST Classification Using Keras in Python
+**Fashion MNIST Classification Using Keras in Python
 ==================================================
 
-##Project Overview
+**Project Overview
 ----------------
 This project implements a Convolutional Neural Network (CNN) using **Keras** in the **python**. The model is trained and evaluated on the Fashion MNIST dataset, which is a standard dataset for image classification tasks.
 
-##Prerequisites
+**Prerequisites
 -------------
 To run this project, ensure the following are installed:
 
